@@ -54,7 +54,6 @@ Shot Conversion Rate Comparison
 **Rationale**: Fortier outperforms Kaloukian on efficiency despite fewer minutes.  
 **Visualization**:  
 Recruitment Efficiency: Goals per 90 Minutes  
-![Goals per 90](visualization_2.png)
 
 ---
 
